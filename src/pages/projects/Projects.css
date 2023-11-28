@@ -1,0 +1,22 @@
+
+.project-top-div{
+    height: 150px;
+    width: 100%;
+    background: linear-gradient(180deg, #cc2b5e, #753a88);
+}
+
+/* .btn-projects{
+        background-color: #2A56FF;
+        border-radius: 25px;
+        transition: 1s;
+        width: 100px !important;
+        color: white;
+
+}
+
+.btn-projects:hover{
+    transform: calc(1.1);
+    border-radius: 25px;
+    background-color: green;
+        
+} */

@@ -1,0 +1,50 @@
+.home-topbar{
+    margin-top: 80px !important;
+}
+
+.left-col {
+    height: 350px;
+    padding: 20px;
+    background: linear-gradient(to right, #160042, #753a83);
+    border-radius: 25px;
+}
+
+.home-btns{
+    margin-top: 100px;
+}
+
+.category-img{
+    height: 140px;
+    width: 140px;
+}
+
+.category-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.developer-img{
+    height: 80px;
+    width: 80px;
+}
+
+.project-img {
+    height: 150px;
+    width: 150px;
+}
+.project-button{
+    width: 100px !important;
+    border-radius: 25px;
+}
+
+/* techonology-img{
+    height: 200px !important;
+    width: 200px !important;
+} */
+
+.metaverse{
+    transition: 1s;
+}
+.metaverse:hover{
+    transform: scale(1.2);
+}
